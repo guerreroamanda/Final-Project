@@ -1,0 +1,8 @@
+ function onGeoError(error) {
+    $('#usegeo').val('off').trigger('change');
+    $.mobile.changePage( "dialogs/geolocation_error.html", {
+       transition: "pop",
+       reverse: false,
+       role: 'dialog'
+    });
+  }

@@ -1,0 +1,138 @@
+Logfile initialized
+[INFO] logfile = /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build.log
+[DEBUG] /Users/amandakelly/Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/builder.py simulator FinalFinal2 /Users/amandakelly/Desktop/Android /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2 amanda.app.com 2 WVGA854 
+[INFO] Building FinalFinal2 for Android ... one moment
+[INFO] Titanium SDK version: 2.1.4 (11/09/12 12:46 51f2c64)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 15 seconds)
+[DEBUG] waited 15.107339 seconds on emulator to get ready
+[INFO] Waiting for the Android Emulator to become available
+[DEBUG] amanda.app.com installed? False
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[TRACE] COPYING CREATED FILE: /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/Resources/config.php => /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/bin/assets/Resources/config.php
+[TRACE] COPYING CREATED FILE: /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/Resources/events.php => /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/bin/assets/Resources/events.php
+[TRACE] COPYING CREATED FILE: /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/Resources/findevent.php => /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/bin/assets/Resources/findevent.php
+[TRACE] COPYING CREATED FILE: /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/Resources/generate.php => /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/bin/assets/Resources/generate.php
+[TRACE] COPYING CREATED FILE: /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/Resources/geolocation_error.html => /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/bin/assets/Resources/geolocation_error.html
+[TRACE] COPYING CREATED FILE: /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/Resources/image.php => /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/bin/assets/Resources/image.php
+[TRACE] COPYING CREATED FILE: /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/Resources/manifest.appcache.php => /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/bin/assets/Resources/manifest.appcache.php
+[TRACE] COPYING CREATED FILE: /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/Resources/tables.sql => /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/bin/assets/Resources/tables.sql
+[TRACE] COPYING CREATED FILE: /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/Resources/tartans.php => /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/bin/assets/Resources/tartans.php
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[DEBUG] found drawable-long-land-hdpi splash screen at /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] adding /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/ApplicationStylesheet.java to javac build list
+[DEBUG] adding /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2Activity.java to javac build list
+[DEBUG] adding /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java to javac build list
+[DEBUG] adding /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2Application.java to javac build list
+[DEBUG] adding /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/R.java to javac build list
+[DEBUG] Building Java Sources: "/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/ApplicationStylesheet.java" "/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2Activity.java" "/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java" "/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2Application.java" "/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/R.java"
+[ERROR] Error(s) compiling generated Java code
+[ERROR] /Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:62: unclosed string literal
+		return "http://www.fixmyiphoneutah.com/
+		       ^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:64: ';' expected
+config.php
+      ^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:65: ';' expected
+css
+   ^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:67: ';' expected
+events.php
+      ^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:68: ';' expected
+extras
+      ^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:70: ';' expected
+generate.php
+        ^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:71: ';' expected
+geolocation_error.html
+                 ^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:72: ';' expected
+image.php
+     ^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:73: ';' expected
+inc
+   ^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:75: ';' expected
+index.php
+     ^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:76: ';' expected
+js
+  ^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:78: ';' expected
+tables.sql
+      ^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:79: ';' expected
+tartans
+       ^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:81: illegal start of expression
+	}
+	^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:83: illegal start of expression
+	public String getCopyright() {
+	^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:83: ';' expected
+	public String getCopyright() {
+	             ^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:83: ';' expected
+	public String getCopyright() {
+	                            ^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:87: illegal start of expression
+	public String getDescription() {
+	^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:87: ';' expected
+	public String getDescription() {
+	                            ^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:91: illegal start of expression
+	public String getIcon() {
+	^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:91: ';' expected
+	public String getIcon() {
+	                     ^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:95: illegal start of expression
+	public boolean isAnalyticsEnabled() {
+	^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:95: ';' expected
+	public boolean isAnalyticsEnabled() {
+	                                 ^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:99: illegal start of expression
+	public String getGUID() {
+	^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:99: ';' expected
+	public String getGUID() {
+	                     ^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:103: illegal start of expression
+	public boolean isFullscreen() {
+	^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:103: ';' expected
+	public boolean isFullscreen() {
+	                           ^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:107: illegal start of expression
+	public boolean isNavBarHidden() {
+	^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:107: ';' expected
+	public boolean isNavBarHidden() {
+	                             ^
+/Users/amandakelly/Documents/Titanium_Studio_Workspace/FinalFinal2/build/android/gen/amanda/app/com/Finalfinal2AppInfo.java:110: reached end of file while parsing
+}
+ ^
+30 errors
+
+[INFO] Android Emulator has exited
